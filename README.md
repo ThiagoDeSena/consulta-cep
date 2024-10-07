@@ -1,16 +1,5 @@
-# consulta_cep
+### Aplicativo de Consulta de CEP
 
-A new Flutter project.
+Aplicativo em Flutter com o consumo da API [Via Cep](https://viacep.com.br) para fazer a consulta do cep digitado:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_4909279496755064288_y](https://github.com/user-attachments/assets/576606af-dda0-40a7-9748-fbcd1e90f6d6)
